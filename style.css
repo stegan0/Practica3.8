@@ -1,0 +1,30 @@
+p1.header {
+    color: brown;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+}
+
+a {
+    color: brown;
+}
+p {
+    color: brown;
+}
+.brown {
+    color: brown;
+}
+p.lacarta {
+    position: relative;
+    text-align: left;
+}
+
+p.elcafe {
+  position: relative;  
+  text-align: center;
+}
+
+p.elcontacto {
+    position: relative;
+    text-align: right;
+} 
